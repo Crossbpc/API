@@ -1,0 +1,6 @@
+@StudentNetCoreWebAPI_HostAddress = http://localhost:5034
+
+GET {{StudentNetCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
